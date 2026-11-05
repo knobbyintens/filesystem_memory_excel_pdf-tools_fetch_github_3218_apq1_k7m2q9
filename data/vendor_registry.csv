@@ -1,0 +1,65 @@
+vendor_id,vendor_name,category,risk_tier,compliance_status,country
+V001,Vertex Cloud Systems,Software & SaaS,HIGH,ACTIVE,US
+V002,Ironbridge Hardware Ltd,IT Hardware,MEDIUM,ACTIVE,AU
+V003,Northwind Office Depot,Office Supplies,LOW,ACTIVE,CA
+V004,Pinnacle Staffing Partners,Professional Services,HIGH,BLOCKED,CA
+V005,Clearwater Facilities Co,Facilities,LOW,ACTIVE,CA
+V006,Brightline Media Group,Marketing,MEDIUM,ACTIVE,US
+V007,Trakline Logistics,Logistics,LOW,ACTIVE,SG
+V008,Orion Telecom Services,Telecom,MEDIUM,ACTIVE,US
+V009,Helix Data Platforms,Software & SaaS,HIGH,ACTIVE,US
+V010,Meadowbrook Print & Mail,Office Supplies,LOW,ACTIVE,US
+V011,Quantum Edge Networks,IT Hardware,HIGH,ACTIVE,DE
+V012,Stratus Consulting LLP,Professional Services,MEDIUM,PROBATION,SG
+V013,Evergreen Cleaning Services,Facilities,LOW,ACTIVE,CA
+V014,Redwood Creative Studio,Marketing,LOW,ACTIVE,DE
+V015,Atlas Freight Systems,Logistics,MEDIUM,ACTIVE,US
+V016,BlueWave Connectivity,Telecom,LOW,ACTIVE,SG
+V017,Silverline Analytics,Software & SaaS,MEDIUM,ACTIVE,AU
+V018,Copperfield Paper Co,Office Supplies,LOW,ACTIVE,DE
+V019,Granite Systems Integrators,IT Hardware,HIGH,ACTIVE,DE
+V020,Harbor Advisory Group,Professional Services,HIGH,BLOCKED,US
+V021,Summit Property Services,Facilities,MEDIUM,ACTIVE,CA
+V022,Lumen Brand Labs,Marketing,MEDIUM,ACTIVE,US
+V023,RapidRail Shipping,Logistics,LOW,ACTIVE,US
+V024,Fiberlink Communications,Telecom,MEDIUM,ACTIVE,CA
+V025,Apex Cloud Engineering,Software & SaaS,HIGH,ACTIVE,US
+V026,Westgate Supply House,Office Supplies,LOW,PROBATION,AU
+V027,Titanium Compute Ltd,IT Hardware,MEDIUM,ACTIVE,US
+V028,Beacon Legal & Compliance,Professional Services,LOW,ACTIVE,CA
+V029,Cedar Park Maintenance,Facilities,LOW,ACTIVE,AU
+V030,PixelForge Agency,Marketing,HIGH,ACTIVE,US
+V031,SwiftCargo Express,Logistics,MEDIUM,ACTIVE,CA
+V032,Nexus Voice & Data,Telecom,HIGH,BLOCKED,GB
+V033,Nimbus Software Works,Software & SaaS,LOW,ACTIVE,US
+V034,Kestrel Office Solutions,Office Supplies,MEDIUM,ACTIVE,SG
+V035,Vector Hardware Group,IT Hardware,LOW,ACTIVE,GB
+V036,Meridian Strategy Partners,Professional Services,HIGH,PROBATION,US
+V037,Urban Nest Facility Care,Facilities,MEDIUM,ACTIVE,GB
+V038,Storyline Communications,Marketing,LOW,ACTIVE,GB
+V039,Cobalt Transport Services,Logistics,HIGH,ACTIVE,US
+V040,SignalPoint Networks,Telecom,LOW,ACTIVE,US
+V041,Zephyr Platform Solutions,Software & SaaS,MEDIUM,ACTIVE,US
+V042,Anchor Point Supplies,Office Supplies,HIGH,BLOCKED,AU
+V043,Basalt Infrastructure,IT Hardware,HIGH,ACTIVE,SG
+V044,Insight Delivery Consulting,Professional Services,MEDIUM,ACTIVE,US
+V045,Lakeside Facility Group,Facilities,LOW,ACTIVE,GB
+V046,Vivid Market Studio,Marketing,MEDIUM,PROBATION,AU
+V047,Northstar Freight Ltd,Logistics,LOW,ACTIVE,CA
+V048,Metro Fiber Networks,Telecom,MEDIUM,ACTIVE,AU
+V049,Cinder Software Labs,Software & SaaS,LOW,ACTIVE,US
+V050,Pillar Office Products,Office Supplies,LOW,ACTIVE,DE
+V051,Sierra Tech Distribution,IT Hardware,MEDIUM,ACTIVE,AU
+V052,Crestline Professional,Professional Services,HIGH,ACTIVE,DE
+V053,Haven Property Care,Facilities,LOW,ACTIVE,US
+V054,Mosaic Creative Partners,Marketing,HIGH,ACTIVE,US
+V055,Galaxy Logistics Network,Logistics,MEDIUM,PROBATION,US
+V056,Telecom One Global,Telecom,LOW,ACTIVE,US
+V057,Brightcode Systems,Software & SaaS,HIGH,ACTIVE,DE
+V058,Ironclad Office Supply,Office Supplies,MEDIUM,ACTIVE,DE
+V059,Ridgeway Hardware,IT Hardware,LOW,ACTIVE,DE
+V060,Lattice Advisory,Professional Services,MEDIUM,ACTIVE,CA
+V061,Willow Grove Services,Facilities,HIGH,BLOCKED,SG
+V062,Studio Nine Media,Marketing,LOW,ACTIVE,US
+V063,Coastal Haulage Ltd,Logistics,HIGH,ACTIVE,US
+V064,Datastream Telecom,Telecom,MEDIUM,ACTIVE,US
